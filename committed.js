@@ -1,1 +1,1 @@
-console.log(Demostrating changing a committed file, new message)
+console.log(Demostrating changing a committed file, a new message)
